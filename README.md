@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imam al arisyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imam al arisyi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imam-al-arisyi-569a6a195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imam al arisyi" height="30" width="40" /></a>
 <a href="https://fb.com/imam al arisyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imam al arisyi" height="30" width="40" /></a>
 <a href="https://instagram.com/imamalarisyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imamalarisyi" height="30" width="40" /></a>
 </p>
