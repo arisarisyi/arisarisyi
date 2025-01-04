@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **PT PUTRA PERKASA ABADI**
 
-- 📫 How to reach me **alarisyi@gmail.com**
+- 📫 How to reach me **alarisyi@gmail.com** / whatsapp **+6285706791704**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
