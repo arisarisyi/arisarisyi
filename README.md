@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imam Al Arisyi</h1>
-<h3 align="center">Always Learning</h3>
+<h3 align="center">Lifelong Learner</h3>
 <h4 align="center"> www.alarisyi.web.id</h4>
 
 - 🔭 I’m currently working on **PT PUTRA PERKASA ABADI**
